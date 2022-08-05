@@ -1,0 +1,15 @@
+this
+is
+a
+file
+with
+some
+random
+words
+for
+the
+task
+python
+programming
+statistics
+database
